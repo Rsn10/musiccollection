@@ -1,8 +1,7 @@
 const collectionModel = require("../models/collectionModel");
 
-// Get all collections with optional filtering by type and advanced search
 const getCollections = (req, res) => {
-  const { type, search } = req.query; // Get type and search query parameters
+  const { type, search } = req.query;
   let collections = collectionModel.getAllCollections();
 
   if (type && type !== "all") {

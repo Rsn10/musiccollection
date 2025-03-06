@@ -57,7 +57,6 @@ const Overview = () => {
 
   return (
     <>
-      {/* Navbar with Overview Title */}
       <AppBar
         position="fixed"
         sx={{
@@ -74,17 +73,15 @@ const Overview = () => {
         </Toolbar>
       </AppBar>
 
-      {/* Grey Background Section */}
       <Box sx={{ backgroundColor: "#f5f5f5", py: 4, mt: 7 }}>
         <Container maxWidth="xl">
           <Card sx={{ pt: 2, px: 3, boxShadow: 3 }}>
-            {/* Search & Filter Inputs */}
             <Box
               sx={{
                 display: "flex",
                 gap: 2,
                 mb: 2,
-                flexDirection: { xs: "column", sm: "row" }, // Stack on small screens
+                flexDirection: { xs: "column", sm: "row" },
               }}
             >
               <TextField
@@ -92,7 +89,7 @@ const Overview = () => {
                 variant="outlined"
                 size="small"
                 sx={{
-                  width: { xs: "100%", sm: "25%" }, // 100% width on small screens
+                  width: { xs: "100%", sm: "25%" },
                 }}
                 onChange={(e) => setSearch(e.target.value)}
               />
@@ -104,7 +101,7 @@ const Overview = () => {
                 value={filterType}
                 onChange={(e) => setFilterType(e.target.value)}
                 sx={{
-                  width: { xs: "100%", sm: "15%" }, // 100% width on small screens
+                  width: { xs: "100%", sm: "15%" },
                   minWidth: 150,
                   background: "#E1E4E9",
                 }}
@@ -116,7 +113,6 @@ const Overview = () => {
               </TextField>
             </Box>
 
-            {/* Table */}
             <TableContainer
               component={Paper}
               sx={{ maxHeight: "70vh", overflowY: "auto" }}

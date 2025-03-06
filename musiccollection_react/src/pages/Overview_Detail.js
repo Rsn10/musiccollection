@@ -29,7 +29,7 @@ const OverviewDetails = () => {
       musicApi
         .getMusicDetails(id)
         .then((res) => {
-          setAlbumData(res?.data); // Store API response in state
+          setAlbumData(res?.data);
           dispatch(hideLoader());
         })
         .catch(() => {
@@ -45,7 +45,7 @@ const OverviewDetails = () => {
   }, [fetchMusicDetails, id]);
 
   if (!albumData) {
-    return <Typography>Loading...</Typography>; // Show loading state
+    return <Typography>Loading...</Typography>;
   }
 
   return (
@@ -80,7 +80,6 @@ const OverviewDetails = () => {
       </AppBar>
 
       <Container maxWidth="xl" sx={{ mt: 3 }}>
-        {/* Album Details Table */}
         <TableContainer component={Paper} sx={{ p: 0, mb: 3 }}>
           <Table>
             <TableHead>
@@ -130,7 +129,6 @@ const OverviewDetails = () => {
           </Table>
         </TableContainer>
 
-        {/* Songs List Table */}
         <TableContainer component={Paper}>
           <Table>
             <TableHead>
