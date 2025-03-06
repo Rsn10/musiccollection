@@ -1,0 +1,358 @@
+[
+    {
+      "id": "12345",
+      "name": "EPIC: The Troy Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "EP",
+      "songCount": 2,
+      "durationInSeconds": 900,
+      "sizeInBytes": 8694,
+      "songs": [
+        {
+          "title": "The Battle of Troy",
+          "durationInSeconds": 300,
+          "sizeInBytes": 4980,
+          "performers": ["Jorge Rivera-Herrans"]
+        },
+        {
+          "title": "The Siege of the City",
+          "durationInSeconds": 280,
+          "sizeInBytes": 7462,
+          "performers": ["Jorge Rivera-Herrans"]
+        }
+      ],
+      "releasedOn": "04 Sept 2024, 10:00 AM"
+    },
+    {
+      "id": "67890",
+      "name": "Music of the Universe",
+      "artist": "Celestial Beats",
+      "type": "Album",
+      "songCount": 6,
+      "durationInSeconds": 900,
+      "sizeInBytes": 8694,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 9875,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 2345,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 4980,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 4325,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7564,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 7564,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "03 Sept 2024, 02:35 PM"
+    },
+    {
+      "id": "32344",
+      "name": "EPIC: The Troy Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "EP",
+      "songCount": 2,
+      "durationInSeconds": 900,
+      "sizeInBytes": 8694,"songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 3423,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 4980,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "03 Sept 2024, 02:35 PM"
+    },
+    {
+      "id": "65432",
+      "name": "EPIC: The Ocean Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "EP",
+      "songCount": 4,
+      "durationInSeconds": 987,
+      "sizeInBytes": 6453,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 3214,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 7462,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 3214,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 4325,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "04 Sept 2024, 10:00 AM"
+    },
+    {
+      "id": "87654",
+      "name": "EPIC: The Iliad Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "EP",
+      "songCount": 2,
+      "durationInSeconds": 890,
+      "sizeInBytes": 6534,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 3214,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "04 Sept 2024, 10:00 AM"
+    },
+    {
+      "id": "98762",
+      "name": "Music of the Universe",
+      "artist": "Celestial Beats",
+      "type": "Album",
+      "songCount": 4,
+      "durationInSeconds": 765,
+      "sizeInBytes": 4326,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 4980,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7564,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 7462,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "10 Oct 2024, 12:31 AM"
+    },
+    {
+      "id": "76489",
+      "name": "EPIC: The Iliad Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "Album",
+      "songCount": 2,
+      "durationInSeconds": 870,
+      "sizeInBytes": 8752,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 2345,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 5432,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "05 Sept 2024, 12:31 AM"
+    },
+    {
+      "id": "09465",
+      "name": "EPIC: The Iliad Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "Album",
+      "songCount": 4,
+      "durationInSeconds": 900,
+      "sizeInBytes": 7645,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "05 Sept 2024, 12:31 AM"
+    },
+    {
+      "id": "43670",
+      "name": "Music of the Universe",
+      "artist": "Celestial Beats",
+      "type": "Single",
+      "songCount": 2,
+      "durationInSeconds": 900,
+      "sizeInBytes": 6523,
+      "songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "11 Oct 2024, 12:31 AM"
+    },
+    {
+      "id": "54300",
+      "name": "EPIC: The Iliad Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "Single",
+      "songCount": 4,
+      "durationInSeconds": 900,
+      "sizeInBytes": 6523,"songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        },{
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "11 Oct 2024, 12:31 AM"
+    },
+    {
+      "id": "00998",
+      "name": "EPIC: The Iliad Saga (Official Concept Album)",
+      "artist": "Jorge Rivera-Herrans",
+      "type": "Single",
+      "songCount": 2,
+      "durationInSeconds": 900,
+      "sizeInBytes": 6523,"songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "11 Oct 2024, 12:31 AM"
+    },
+    {
+      "id": "87777",
+      "name": "Music of the Universe",
+      "artist": "Celestial Beats",
+      "type": "Single",
+      "songCount": 3,
+      "durationInSeconds": 900,
+      "sizeInBytes": 6523,"songs": [
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Starry Night",
+          "durationInSeconds": 200,
+          "sizeInBytes": 3421,
+          "performers": ["Celestial Beats"]
+        },
+        {
+          "title": "Galactic Dawn",
+          "durationInSeconds": 180,
+          "sizeInBytes": 7645,
+          "performers": ["Celestial Beats"]
+        }
+      ],
+      "releasedOn": "11 Oct 2024, 12:31 AM"
+    }
+  ]
